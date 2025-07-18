@@ -1,0 +1,21 @@
+1. Operating System: Windows/Linux/MacOS
+
+2. Python Version: Python 3.7 or above
+
+3. Required Libraries:
+
+- pandas
+
+- matplotlib
+
+- python-docx (for document creation)
+
+4. IDE/Editor: Jupyter Notebook, VS Code, PyCharm, etc.
+
+5. Memory: Minimum 4GB RAM recommended for handling medium-sized datasets.
+
+6. Storage: Sufficient space for input data and generated plots.
+
+7. Dependencies Installation Command:
+
+pip install pandas matplotlib python-docx
